@@ -1,4 +1,5 @@
 # Udacity Data Science NanoDegree - Airbnb Project
+![house](https://user-images.githubusercontent.com/92649864/149861946-304ca545-54b5-45d0-93b1-261c80d81f28.png)
 ## Motivation
 For this project, I am interest in using the 2016-17 Seattle and Boston Airbnb datasets to answer the following questions: <br>
     - What are the important amenities of these listings? Compare the two cities. <br>
