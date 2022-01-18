@@ -16,3 +16,9 @@ You will find 4 Jupyter Notebook files in this repository. Part I mainly deals w
 The next 3 parts deal with answering the questions that I have posed. Most of them require a bit of legwork before I could answer them.
 
 The catboost_info folder is related to the model I tested in Part III.
+
+## Packages
+List of packages used: Matplotlib, numpy, pandas, calendar, seaborn, scikit-learn
+
+## Medium Article
+Medium Article Link: https://medium.com/@mr.dcny/a-study-of-airbnb-listings-seattle-boston-ff3a69646edf
